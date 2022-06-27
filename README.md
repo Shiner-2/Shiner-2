@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiner-2
-- 👀 I’m interested in minecraft
-- 🌱 I’m currently learning c++, python
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning c++, python, html, css, js
 - 💞️ I’m looking to collaborate on ... not now
 - 📫 How to reach me ...
 
